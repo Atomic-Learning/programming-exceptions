@@ -1,0 +1,19 @@
+{
+    "title": "Programming: Exceptions",
+    "slug": "programming-exceptions",
+    "description": "Introduction to exceptions as a programming mechanism for handling errors. Covers what exceptions are, why they exist, how different programming languages use them, and their role in signaling problems during program execution.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "programming-variables"
+    ],
+    "related": [
+        "python-exceptions"
+    ]
+}
